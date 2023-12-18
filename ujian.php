@@ -1,5 +1,5 @@
 <?php
-<p>saya mengerjakan ujian ini dengan jujur!</p>
+echo "<p>saya mengerjakan ujian ini dengan jujur!</p>";
 
 <img src='gambar.jpg' alt='deskripsi'>
 
